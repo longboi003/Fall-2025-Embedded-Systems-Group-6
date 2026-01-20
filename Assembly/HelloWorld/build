@@ -1,0 +1,2 @@
+as -o HelloWorldDiego.o HelloWorldDiego.s
+ld -o HelloWorldDiego HelloWorldDiego.o
